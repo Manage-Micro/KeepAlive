@@ -9,7 +9,7 @@ This is a **SELFBOT** and in accordance with Discord [Terms of Service](https://
 
 This application is a `command line` application, meaning it must be opened using either Command Prompt, Terminal, or other emulator of one or the other.
 
-** YOU MUST BE USING JRE 1.8 (JAVA 8) OR NEWER TO USE THIS APPLICATION **
+**YOU MUST BE USING JRE 1.8 (JAVA 8) OR NEWER TO USE THIS APPLICATION**
 
 The command line arguments MUST be in the correct order otherwise the application will NOT start correctly. All arguments are required.
 
