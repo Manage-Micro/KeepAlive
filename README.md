@@ -56,7 +56,7 @@ The following commands can be used to perform various cleanup actions:
   
 `-dump`
 
-  Creates a file called `dump-DATE.LOG` to the working directory (where the JAR is) of all the info in a guild.
+  Creates a file called `dump-GUILD.LOG` to the working directory (where the JAR is) of all the info in a guild.
 
 ## FAQ
 
