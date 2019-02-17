@@ -86,3 +86,8 @@ The following commands can be used to perform various cleanup actions:
 - Sure.
 
 ```
+
+
+# Download
+
+[Click here to download](https://drive.google.com/file/d/1L7KBLosxXM8Hi6s51eYOqCpMX2zNYLvK/view?usp=sharing)
