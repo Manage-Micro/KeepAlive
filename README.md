@@ -15,6 +15,8 @@ The command line arguments MUST be in the correct order otherwise the applicatio
 
 `java -jar KeepAlive.jar -t TOKEN [-p PLAYING|-w WATCHING|-l LISTENING|-s STREAMING:URL] -o STATUS`
 
+*Please note that accepted Arguments for status are Online, Idle, Do_Not_Disturb and Offline*
+
 For example, to start the selfbot displaying me Playing Minecraft, and appearing as Idle, the arguments would be:
 
 `-t TOKEN -p Minecraft -o Idle`
@@ -31,9 +33,13 @@ Future versions of this will have corresponding images
 In any channel where you have write access, you can use the following commands to edit your Presence (Playing, Listening, Watching) or Status.
 
 `-p GAME`
+  Example: `-p Minecraft`
 `-l SONG`
+  Example: `-l Viva la Vida - Coldplay`
 `-w VIDEO`
+  Example: `-w Rick Astley - Never Gonna Give You Up`
 `-o STATUS`
+  Example: `-o Idle`
 
 ## FAQ
 
