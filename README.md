@@ -54,13 +54,17 @@ The following commands can be used to perform various cleanup actions:
 
   Requires you to be the owner of a guild. Deletes everything and bans users, then creates a new channel called `Children of Atom`
   
-  `-softnuke`
+`-softnuke`
   
   Requires you to be the owner of a guild. Deletes everything, but doesn't ban anyone. Creates a channel called `Children of Atom`
   
 `-dump`
 
   Sends every bit of data on the server to your command prompt/terminal window.
+  
+`-clear`
+
+  Deletes every message sent by you in a Server or Private Channel.
   
 
 
