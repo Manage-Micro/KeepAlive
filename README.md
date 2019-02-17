@@ -60,7 +60,7 @@ The following commands can be used to perform various cleanup actions:
   
 `-dump`
 
-  Creates a file called `dump-GUILD.LOG` to the working directory (where the JAR is) of all the info in a guild.
+  Sends every bit of data on the server to your command prompt/terminal window.
   
 
 
