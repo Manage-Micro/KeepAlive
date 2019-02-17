@@ -8,10 +8,12 @@ This is a **SELFBOT** and in accordance with Discord [Terms of Service](https://
 
 ```diff
 + Where do I get my usertoken?
-- Sorry, this bot requires basic knowledge of using self-bots. Support will NOT be given in accessing your usertoken
+- Sorry, this bot requires basic knowledge of using self-bots. 
+- Support will NOT be given in accessing your usertoken
 
 + Are my details safe?
-- Yes, the application doesn't store, transmit or otherwise share your data outside of the Authentication process with the Discord API
+- Yes, the application doesn't store, transmit or otherwise share your data 
+- (outside of the Authentication process with the Discord API)
 
 + Is this legal?
 - Legal? Yes. Ethical? No. Bannable? Most definitely
