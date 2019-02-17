@@ -9,7 +9,7 @@ This is a **SELFBOT** and in accordance with Discord [Terms of Service](https://
 
 This application is a `command line` application, meaning it must be opened using either Command Prompt, Terminal, or other emulator of one or the other
 
-The command line arguments MUST be in the correct order otherwise the application will NOT start correctly. Options like PLAYING and STATUS are optional, but TOKEN is required
+The command line arguments MUST be in the correct order otherwise the application will NOT start correctly. All arguments are required.
 
 `java -jar KeepAlive.jar -t TOKEN [-p PLAYING|-w WATCHING|-l LISTENING|-s STREAMING:URL] -o STATUS`
 
