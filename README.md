@@ -47,6 +47,16 @@ In any channel where you have write access, you can use the following commands t
 `-o STATUS`
 
   Example: `-o Idle`
+  
+The following commands can be used to perform various cleanup actions:
+
+`-nuke`
+
+  Requires you to be the owner of a server. Deletes everything, and creates a new channel called `Children of Atom`
+  
+`-dump`
+
+  Creates a file called `dump-DATE.LOG` to the working directory (where the JAR is) of all the info in a guild.
 
 ## FAQ
 
