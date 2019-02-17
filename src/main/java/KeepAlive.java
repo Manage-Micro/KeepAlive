@@ -129,12 +129,10 @@ public class KeepAlive extends ListenerAdapter {
 
 
             if(raw.equalsIgnoreCase("-clear")){
-                event.getMessage().delete().queue(v -> {
                     for(Message message : event.getChannel().getIterableHistory().stream().filter(m -> m.getAuthor().equals(event.getAuthor())).limit(1000).collect(Collectors.toList())){
                         message.delete().queue();
                     }
-                });
-            }
+               }
             if(raw.equalsIgnoreCase("-dump")){
                 if(event.isFromType(ChannelType.TEXT)){
                     DateTimeFormatter dtf = DateTimeFormatter.ofPattern("dd/MMMM/yyyy HH:mm:ss");
