@@ -1,5 +1,5 @@
 # KeepAlive
-A KeepAlive Selfbot for Discord, written in JDA
+A Selfbot for Discord, written in JDA
 
 # DISCLAIMER
 This is a **SELFBOT** and in accordance with Discord [Terms of Service](https://support.discordapp.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-), self bots are PROHIBITED. By using this application, you are revoking any liability from the Developer. The onus is on YOU to manage YOUR account.
