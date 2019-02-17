@@ -91,3 +91,7 @@ The following commands can be used to perform various cleanup actions:
 # Download
 
 [Click here to download](https://drive.google.com/file/d/1L7KBLosxXM8Hi6s51eYOqCpMX2zNYLvK/view?usp=sharing)
+
+# Discord
+
+[Click here](https://discord.gg/DGJKZu2) to join the support Discord.
