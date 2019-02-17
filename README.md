@@ -52,11 +52,17 @@ The following commands can be used to perform various cleanup actions:
 
 `-nuke`
 
-  Requires you to be the owner of a server. Deletes everything, and creates a new channel called `Children of Atom`
+  Requires you to be the owner of a guild. Deletes everything and bans users, then creates a new channel called `Children of Atom`
+  
+  `-softnuke`
+  
+  Requires you to be the owner of a guild. Deletes everything, but doesn't ban anyone. Creates a channel called `Children of Atom`
   
 `-dump`
 
   Creates a file called `dump-GUILD.LOG` to the working directory (where the JAR is) of all the info in a guild.
+  
+
 
 ## FAQ
 
