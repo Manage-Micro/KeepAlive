@@ -7,7 +7,9 @@ This is a **SELFBOT** and in accordance with Discord [Terms of Service](https://
 
 ## Usage
 
-This application is a `command line` application, meaning it must be opened using either Command Prompt, Terminal, or other emulator of one or the other
+This application is a `command line` application, meaning it must be opened using either Command Prompt, Terminal, or other emulator of one or the other.
+
+** YOU MUST BE USING JRE 1.8 (JAVA 8) OR NEWER TO USE THIS APPLICATION **
 
 The command line arguments MUST be in the correct order otherwise the application will NOT start correctly. All arguments are required.
 
@@ -23,6 +25,15 @@ For the `-s` argument, a Title and Valid Stream Channel (Twitch) must be provide
 As you can see, spaces MUST be replaced with Underscores.
 
 Future versions of this will have corresponding images
+
+## Commands
+
+In any channel where you have write access, you can use the following commands to edit your Presence (Playing, Listening, Watching) or Status.
+
+`-p GAME`
+`-l SONG`
+`-w VIDEO`
+`-o STATUS`
 
 ## FAQ
 
