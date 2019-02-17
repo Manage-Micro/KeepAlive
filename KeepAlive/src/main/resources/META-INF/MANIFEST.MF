@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: JDA-3.8.1_454.jar jna-4.4.0.jar slf4j-api-1.7.25.jar okio-
- 1.15.0.jar annotations-16.0.1.jar opus-java-api-1.0.4.jar json-201608
- 10.jar nv-websocket-client-2.5.jar jsr305-3.0.2.jar commons-collectio
- ns4-4.1.jar trove4j-3.0.3.jar okhttp-3.12.0.jar opus-java-natives-1.0
- .4.jar
-Main-Class: KeepAlive
-
