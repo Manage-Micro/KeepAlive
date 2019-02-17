@@ -33,12 +33,19 @@ Future versions of this will have corresponding images
 In any channel where you have write access, you can use the following commands to edit your Presence (Playing, Listening, Watching) or Status.
 
 `-p GAME`
+
   Example: `-p Minecraft`
+
 `-l SONG`
+
   Example: `-l Viva la Vida - Coldplay`
+
 `-w VIDEO`
+  
   Example: `-w Rick Astley - Never Gonna Give You Up`
+
 `-o STATUS`
+
   Example: `-o Idle`
 
 ## FAQ
