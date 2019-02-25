@@ -88,9 +88,6 @@ The following commands can be used to perform various cleanup actions:
 ```
 
 
-# Download
-
-[Click here to download](https://drive.google.com/drive/folders/1EzealAnnjPKTsQUH31LaaTRLV4QxVW0i?usp=sharing)
 
 # Discord
 
